@@ -19,8 +19,8 @@ social:
   linkedin: "your_linkedin_profile"       # Your LinkedIn profile (if applicable)
 
 # Build settings
-theme: minimal                             # If you want to specify a theme
-permalink: pretty                          # Pretty permalinks for your posts
+theme: jekyl-them-minimal                 # If you want to specify a theme
+permalink: pretty                         # Pretty permalinks for your posts
 baseurl: ""                               # Base URL for your site; change if your site is not at the root
 
 # Navigation settings (optional)

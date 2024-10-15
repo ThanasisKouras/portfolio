@@ -1,13 +1,12 @@
-# Portfolio
+# Description
 
-## Description
-
-Welcome to my portfolio! Below are some of the projects I have worked on. Each project includes an image, a description, and a link to the GitHub repository.
+Welcome to my portfolio. Below are some of the projects I have worked on. Each project includes an image, a description, and a link to the GitHub repository.
 
 ---
 
-## Project 1: [Euroleague Dashboard App](https://github.com/ThanasisKouras/Euroleague-dashboard-app)
+##[Euroleague Dashboard App](https://github.com/ThanasisKouras/Euroleague-dashboard-app)
 ![Euroleague-Dashboard-App-Demo](assets/img/euroleague-app-browsing.gif)
+
 **Description**:  
 This is an Analytics Dashboard of Euroleague , exploring useful statistics about each **team** and each **player** of the selected team. The purpose of this dashboard is to provide an overview of basic and advanced stats in the fastest way possible. A demo of the app is provided below, to showcase its use.
 
@@ -15,12 +14,13 @@ This is an Analytics Dashboard of Euroleague , exploring useful statistics about
 
 ---
 
-## Project 2: [Project Title](#)
-![Project 2 Image](link-to-your-image-2.jpg)
-**Description**:  
-A brief description of Project 2 goes here. Provide insights into the project, including technologies, functionality, and any interesting points.
+##[Data Engineering project using Azure-Databricks-Pyspark](#)
+![Data Engineering project architecture image](assets/img/Architecture.png)
 
-**GitHub Repository**: [View on GitHub](https://github.com/yourusername/project2)
+**Description**:  
+This project showcases the management, streamline and data analysis of E-commerce data using Azure & Databricks. The project architecture is based on the Medallion Architecture. The Medallion Architecture is a data engineering framework that organizes data processing into three distinct layers: bronze, silver, and gold. The bronze layer stores raw data, the silver layer cleanses and enriches it, and the gold layer provides refined, ready-for-analytics data.
+
+**GitHub Repository**: [View on GitHub](https://github.com/ThanasisKouras/E-Commerce-Data-Engineering-project-Azure-Databricks-Pyspark)
 
 ---
 
@@ -51,6 +51,4 @@ A brief description of Project 5 goes here. Provide a summary of the project and
 
 ---
 
-### Contact
-If you have any questions or would like to discuss my work further, please feel free to reach out!
 

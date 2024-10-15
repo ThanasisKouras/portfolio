@@ -1,47 +1,5 @@
-# Site settings
-title: Athanasios K                     # The title of your site
-description: "A brief description of your site goes here."  # Description for your site (used for SEO)
-logo: /assets/img/headshot_circle.png    # Path to your site's logo
-
-# Remote theme settings
-remote_theme: pages-themes/minimal@v0.2.0  # Using a remote theme from GitHub Pages
-
-# Plugins
-plugins:
-  - jekyll-remote-theme                   # Add this line to the plugins list if you already have one
-  # Uncomment the following line to enable pagination
-  # - jekyll-paginate 
-
-# Social settings (optional)
-social:
-  twitter: "your_twitter_handle"          # Your Twitter username (if applicable)
-  github: "your_github_username"          # Your GitHub username
-  linkedin: "your_linkedin_profile"       # Your LinkedIn profile (if applicable)
-
-# Build settings
-theme: jekyll-theme-minimal                 # If you want to specify a theme
-permalink: pretty                         # Pretty permalinks for your posts
-baseurl: ""                               # Base URL for your site; change if your site is not at the root
-
-# Navigation settings (optional)
-nav:
-  - title: Home                           # Navigation item title
-    url: /                                # URL for the item
-  - title: About                          # Add more navigation items as needed
-    url: /about                           # URL for the item
-
-# Markdown settings
-markdown: kramdown                         # Markdown processor to use
-kramdown:
-  input: GFM                               # Use GitHub Flavored Markdown
-
-# SEO settings (optional)
-exclude:
-  - Gemfile                                # Exclude files from being processed
-  - Gemfile.lock
-
-# Other optional settings
-show_downloads: true                       # Show downloads section if applicable
-
-# Footer settings (optional)
-footer: "© 2024 Athanasios K. All rights reserved."  # Footer text
+title: Athanasios K
+logo: /assets/img/headshot_circle.png
+#description: text below image
+show_downloads: true
+theme: jekyll-theme-minimal

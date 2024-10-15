@@ -4,7 +4,7 @@ Welcome to my portfolio. Below are some of the projects I have worked on. Each p
 
 ---
 
-##Euroleague Dashboard App[Euroleague Dashboard App](https://github.com/ThanasisKouras/Euroleague-dashboard-app)
+## Euroleague Dashboard App [Euroleague Dashboard App](https://github.com/ThanasisKouras/Euroleague-dashboard-app)
 ![Euroleague-Dashboard-App-Demo](assets/img/euroleague-app-browsing.gif)
 
 **Description**:  
@@ -14,7 +14,7 @@ This is an Analytics Dashboard of Euroleague , exploring useful statistics about
 
 ---
 
-##Data Engineering project using Azure-Databricks-Pyspark[Data Engineering project using Azure-Databricks-Pyspark](https://github.com/ThanasisKouras/E-Commerce-Data-Engineering-project-Azure-Databricks-Pyspark)
+## Data Engineering project using Azure-Databricks-Pyspark [Data Engineering project using Azure-Databricks-Pyspark](https://github.com/ThanasisKouras/E-Commerce-Data-Engineering-project-Azure-Databricks-Pyspark)
 ![Data Engineering project architecture image](assets/img/Architecture.png)
 
 **Description**:  

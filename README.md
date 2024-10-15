@@ -15,13 +15,14 @@ This is an Analytics Dashboard of Euroleague, exploring useful statistics about 
 
 ---
 
-## Data Engineering project using Azure-Databricks-Pyspark [Data Engineering project using Azure-Databricks-Pyspark](https://github.com/ThanasisKouras/E-Commerce-Data-Engineering-project-Azure-Databricks-Pyspark)
+## [Data Engineering project using Azure-Databricks-Pyspark](https://github.com/ThanasisKouras/E-Commerce-Data-Engineering-project-Azure-Databricks-Pyspark)
 ![Data Engineering project architecture image](assets/img/Architecture.png)
 
 **Description**:  
-This project showcases the management, streamline and data analysis of E-commerce data using Azure & Databricks. The project architecture is based on the Medallion Architecture. The Medallion Architecture is a data engineering framework that organizes data processing into three distinct layers: bronze, silver, and gold. The bronze layer stores raw data, the silver layer cleanses and enriches it, and the gold layer provides refined, ready-for-analytics data.
+This project showcases the management, streamline, and data analysis of E-commerce data using Azure & Databricks. The project architecture is based on the Medallion Architecture, which organizes data processing into three distinct layers: bronze, silver, and gold. The bronze layer stores raw data, the silver layer cleanses and enriches it, and the gold layer provides refined, ready-for-analytics data.
 
 **GitHub Repository**: [View on GitHub](https://github.com/ThanasisKouras/E-Commerce-Data-Engineering-project-Azure-Databricks-Pyspark)
+
 
 ---
 

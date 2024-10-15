@@ -1,8 +1,16 @@
-# Description
+# Portfolio
 
 Welcome to my portfolio. Below are some of the projects I have worked on. Each project includes an image, a description, and a link to the GitHub repository.
 
 ---
+
+## Overview
+
+- [Euroleague Dashboard App](#euroleague-dashboard-app)
+- [Data Engineering project using Azure-Databricks-Pyspark](#data-engineering-project-using-azure-databricks-pyspark)
+
+---
+
 
 ## [Euroleague Dashboard App](https://github.com/ThanasisKouras/Euroleague-dashboard-app)
 ![Euroleague-Dashboard-App-Demo](assets/img/euroleague-app-browsing.gif)

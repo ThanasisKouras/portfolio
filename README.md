@@ -6,12 +6,12 @@ Welcome to my portfolio! Below are some of the projects I have worked on. Each p
 
 ---
 
-## Project 1: [Project Title](#) 
-![Project 1 Image](link-to-your-image-1.jpg)
+## Project 1: [Euroleague Dashboard App](https://github.com/ThanasisKouras/Euroleague-dashboard-app)
+![Euroleague-Dashboard-App-Demo](assets/img/euroleague-app-browsing.gif)
 **Description**:  
-A brief description of Project 1 goes here. Explain what the project is about, the technologies used, and any significant features. You can also mention what you learned or challenges you overcame during the development.
+This is an Analytics Dashboard of Euroleague , exploring useful statistics about each **team** and each **player** of the selected team. The purpose of this dashboard is to provide an overview of basic and advanced stats in the fastest way possible. A demo of the app is provided below, to showcase its use.
 
-**GitHub Repository**: [View on GitHub](https://github.com/yourusername/project1)
+**GitHub Repository**: [View on GitHub](https://github.com/ThanasisKouras/Euroleague-dashboard-app)
 
 ---
 

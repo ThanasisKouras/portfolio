@@ -8,9 +8,10 @@ Welcome to my portfolio. Below are some of the projects I have worked on. Each p
 ![Euroleague-Dashboard-App-Demo](assets/img/euroleague-app-browsing.gif)
 
 **Description**:  
-This is an Analytics Dashboard of Euroleague , exploring useful statistics about each **team** and each **player** of the selected team. The purpose of this dashboard is to provide an overview of basic and advanced stats in the fastest way possible. A demo of the app is provided below, to showcase its use.
+This is an Analytics Dashboard of Euroleague, exploring useful statistics about each **team** and each **player** of the selected team. The purpose of this dashboard is to provide an overview of basic and advanced stats in the fastest way possible. A demo of the app is provided below, to showcase its use.
 
 **GitHub Repository**: [View on GitHub](https://github.com/ThanasisKouras/Euroleague-dashboard-app)
+
 
 ---
 

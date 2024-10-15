@@ -4,7 +4,7 @@ Welcome to my portfolio. Below are some of the projects I have worked on. Each p
 
 ---
 
-## Euroleague Dashboard App [Euroleague Dashboard App](https://github.com/ThanasisKouras/Euroleague-dashboard-app)
+## [Euroleague Dashboard App](https://github.com/ThanasisKouras/Euroleague-dashboard-app)
 ![Euroleague-Dashboard-App-Demo](assets/img/euroleague-app-browsing.gif)
 
 **Description**:  

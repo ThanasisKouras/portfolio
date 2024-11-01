@@ -11,6 +11,22 @@ My portfolio. Below are some of the projects I have worked on. Each project incl
 
 ---
 
+## Basketball Data Analysis Website (Django Project) : ([#](https://athk.pythonanywhere.com/))
+**Description**:  
+The Basketball Data Analysis Website is a dynamic platform developed with Django, designed to provide comprehensive statistics for basketball fans and analysts. Utilizing data from the Euroleague and Eurocup APIs, this site delivers real-time insights into both team and player performance.
+
+Features
+- Real-Time Statistics: Stay updated with live stats that automatically refresh to provide the latest information.
+- User-Friendly Interface: Easily navigate through simple and advanced views of essential statistics.
+- Advanced Calculations: Access in-depth analyses of team and player data, helping users make informed decisions and gain insights into performance trends.
+Tech Stack
+- Backend: Django
+- Frontend: HTML, CSS, JavaScript 
+
+
+
+---
+
 
 ## [Euroleague Dashboard App](https://github.com/ThanasisKouras/Euroleague-dashboard-app)
 ![Euroleague-Dashboard-App-Demo](assets/img/euroleague-app-browsing.gif)
@@ -37,31 +53,6 @@ This project showcases the management, streamline, and data analysis of E-commer
 
 ---
 
-## Project 3: [Project Title](#)
-![Project 3 Image](link-to-your-image-3.jpg)
-**Description**:  
-A brief description of Project 3 goes here. Highlight key features, what you learned, and any relevant details that make this project stand out.
 
-**GitHub Repository**: [View on GitHub](https://github.com/yourusername/project3)
-
----
-
-## Project 4: [Project Title](#)
-![Project 4 Image](link-to-your-image-4.jpg)
-**Description**:  
-A brief description of Project 4 goes here. Discuss the purpose of the project, the tools used, and your contributions.
-
-**GitHub Repository**: [View on GitHub](https://github.com/yourusername/project4)
-
----
-
-## Project 5: [Project Title](#)
-![Project 5 Image](link-to-your-image-5.jpg)
-**Description**:  
-A brief description of Project 5 goes here. Provide a summary of the project and its significance, as well as any relevant technologies used.
-
-**GitHub Repository**: [View on GitHub](https://github.com/yourusername/project5)
-
----
 
 

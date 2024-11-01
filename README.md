@@ -6,22 +6,25 @@ My portfolio. Below are some of the projects I have worked on. Each project incl
 
 ## Overview
 
+- [Basketball Data Analysis Website](#basketball-data-analysis-website-django-project)
 - [Euroleague Dashboard App](#euroleague-dashboard-app)
 - [Data Engineering project using Azure-Databricks-Pyspark](#data-engineering-project-using-azure-databricks-pyspark)
 
 ---
 
-## Basketball Data Analysis Website (Django Project) : ([#](https://athk.pythonanywhere.com/))
+## [Basketball Data Analysis Website (Django Project)](https://athk.pythonanywhere.com/)
+
 **Description**:  
 The Basketball Data Analysis Website is a dynamic platform developed with Django, designed to provide comprehensive statistics for basketball fans and analysts. Utilizing data from the Euroleague and Eurocup APIs, this site delivers real-time insights into both team and player performance.
 
-Features
-- Real-Time Statistics: Stay updated with live stats that automatically refresh to provide the latest information.
-- User-Friendly Interface: Easily navigate through simple and advanced views of essential statistics.
-- Advanced Calculations: Access in-depth analyses of team and player data, helping users make informed decisions and gain insights into performance trends.
-Tech Stack
-- Backend: Django
-- Frontend: HTML, CSS, JavaScript 
+### Features
+- **Real-Time Statistics**: Stay updated with live stats that automatically refresh to provide the latest information.
+- **User-Friendly Interface**: Easily navigate through simple and advanced views of essential statistics.
+- **Advanced Calculations**: Access in-depth analyses of team and player data, helping users make informed decisions and gain insights into performance trends.
+
+### Tech Stack
+- **Backend**: Django
+- **Frontend**: HTML, CSS, JavaScript
 
 
 

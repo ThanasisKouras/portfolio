@@ -1,6 +1,6 @@
 # Portfolio
 
-Welcome to my portfolio. Below are some of the projects I have worked on. Each project includes an image, a description, and a link to the GitHub repository.
+My portfolio. Below are some of the projects I have worked on. Each project includes an image, a description, and a link to the GitHub repository.
 
 ---
 
